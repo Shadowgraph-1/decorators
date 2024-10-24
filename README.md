@@ -108,7 +108,7 @@ def div(a, b):
 
 ``` bash
 
-python test_1.py
+python deco_1.py
 ```
 Вывод:
 Содержимое main.log:
